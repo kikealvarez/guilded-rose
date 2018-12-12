@@ -1,0 +1,23 @@
+{
+  "name": "iedistilledsch/codekata2",
+  "description": "CodeKata 2 - Gilded Rose",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Joao Moreira",
+      "email": "joao.moreira@distilled.ie"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Codekata2\\": "src/",
+      "Codekata2\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": ">=4"
+  }
+}
