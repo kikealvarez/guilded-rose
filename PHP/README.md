@@ -1,6 +1,6 @@
 # PHP source code
 
-##Requirements:
+## Requirements:
 - have php installed in your machine (5.3+, macs will have it)
 - have composer installed
 
