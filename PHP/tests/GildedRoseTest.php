@@ -15,8 +15,7 @@ class GildedRoseTest extends TestCase
         );
 
         $gildedRose = new GildedRose($items);
-
-        $gildedRose->updateQuality();
+        $gildedRose->updateQualityOfItemsAfterOneDayHasPassed();
 
         $this->assertEquals("fixme", $items[0]->name);
     }
