@@ -2,6 +2,9 @@
 
 namespace Codekata2\model;
 
+/**
+ * Do not change this class for this exercise
+ */
 class Item
 {
     public $name;

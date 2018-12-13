@@ -8,9 +8,11 @@ use PHPUnit\Framework\TestCase;
 
 class GildedRoseTest extends TestCase
 {
-    public function testX()
+    public function testPlaceholder()
     {
-        $items = array(new Item("foo", 0, 0));
+        $items = array(
+            new Item("foo", 0, 0)
+        );
 
         $gildedRose = new GildedRose($items);
 
