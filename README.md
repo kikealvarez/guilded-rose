@@ -1,14 +1,8 @@
 # CodeKata 2 - Gilded Rose
 Category: Refactoring
 
-## Objective
-...
-
-## Task
-...
-
-## Constraint
-...
+## Objective/Task
+[Requirements here](requirements.md)
 
 ## Source code
 
